@@ -1,4 +1,5 @@
 # Bloggy-Reward-Fashion-Co-Backend-Test
+(You should be able to deduce what company this is...)<br><br>
 Nginx, two Tornado Instances, ElasticSeach db backend.
 
 (Remove prior) Load and prime feed for advertiser with:<br />
