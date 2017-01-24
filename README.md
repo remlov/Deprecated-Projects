@@ -1,6 +1,6 @@
 Synopsis
 ==
-Repository for Interview Take Home Tests, references removed for obvious reasons...
+Repository for Interview Take Home Tests, references and company names removed for obvious reasons...
 
 License
 --
