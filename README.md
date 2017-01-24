@@ -1,6 +1,6 @@
 Synopsis
 ==
-Deprecated stuff and/or projects to scatch an itch...
+Repository for Interview Take Home Tests, references removed for obvious reasons...
 
 License
 --
